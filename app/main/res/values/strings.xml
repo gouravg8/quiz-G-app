@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quiz G</string>
+
+    <string-array name="categories">
+        <item>Category</item>
+        <item>artliterature</item>
+        <item>language</item>
+        <item>sciencenature</item>
+        <item>general</item>
+        <item>fooddrink</item>
+        <item>peopleplaces</item>
+        <item>geography</item>
+        <item>historyholidays</item>
+    </string-array>
+</resources>
